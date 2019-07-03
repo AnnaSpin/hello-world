@@ -1,2 +1,2 @@
 # hello-world
-just a one
+just a one app
